@@ -111,3 +111,5 @@ tree = id3(df_tennis,'PlayTennis',attribute_names)
 print("\n\nThe Resultant Decision Tree is :\n")
 #print(tree)
 pprint(tree)
+
+/////end of prog 4 /////////
